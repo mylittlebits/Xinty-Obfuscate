@@ -1,7 +1,20 @@
 # PE Executable Obfuscator
 
 A comprehensive obfuscator for Windows PE (.exe) files with multiple protection layers and anti-reverse engineering techniques.
-
+<p align="center">
+    <a href="https://python.org">
+    <img src="https://img.shields.io/badge/Python-3.7-green.svg">
+  </a>
+  <a href="https://github.com/mbixiner/Xinty-Obfuscate/blob/master/LICENSE">
+    <img src="https://img.shields.io/badge/License-BSD%203-lightgrey.svg">
+  </a>
+  <a href="https://github.com/mbixiner/Xinty-Obfuscate/releases">
+    <img src="https://img.shields.io/badge/Release-1.0-blue.svg">
+  </a>
+    <a href="https://github.com/mbixiner/Xinty-Obfuscate">
+    <img src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-brightgreen.svg">
+  </a>
+</p>
 ## ⚠️ Legal Disclaimer
 
 This tool is provided for educational and legitimate software protection purposes only. Users are responsible for:
@@ -288,4 +301,5 @@ This obfuscator makes analysis more time-consuming but not impossible.
 ---
 
 **Remember**: Obfuscation is not a substitute for proper security practices. It's one layer in a defense-in-depth strategy.
+
 
